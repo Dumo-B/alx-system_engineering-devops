@@ -1,2 +1,2 @@
 #!/bin/bash
-Best=School #local variable
+BEST=School #local variable
